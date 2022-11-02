@@ -38,5 +38,5 @@ Personal Notes:
     # objects == variables assigned to classes
     # remember SELF! == current instance of class
 
-# future: figure out how to do this for ANY size garage!
+# future: figure out how to do this for ANY size garage! -- DONE! w. input for 'stalls'
 # 15 minutes to leave is too much time for such a small location. Reducing it to 10 min.
